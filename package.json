@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/farmhubbsc/eagle-uitkit",
+  "repository": "https://github.com/farmhubbsc/cobra-uitkit",
   "license": "MIT",
   "scripts": {
     "build": "rollup -c && tsc -d --emitDeclarationOnly --declarationDir dist",
